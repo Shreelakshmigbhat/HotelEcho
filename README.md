@@ -8,6 +8,20 @@ Install the dependencies and launch the Streamlit interface:
 pip install -r requirements.txt
 streamlit run app.py
 ```
+first opening page:
+<img width="2059" height="1228" alt="image" src="https://github.com/user-attachments/assets/5f347c36-e865-4cc3-920f-7602592521ec" />
+
+Predefined comments/complains:
+<img width="1969" height="1145" alt="image" src="https://github.com/user-attachments/assets/7bad46ad-48c8-4e09-88fb-1f4d3ea466dd" />
+
+user customised complaint: review : bad
+<img width="2056" height="1122" alt="image" src="https://github.com/user-attachments/assets/986d35b2-9772-461e-8bc9-5719246d0eef" />
+user customised complaint: review : good
+<img width="2063" height="1175" alt="image" src="https://github.com/user-attachments/assets/0f5723c2-62d1-48b8-9734-de0d5dc57d8a" />
+
+dataset signals:
+<img width="2065" height="1152" alt="image" src="https://github.com/user-attachments/assets/7c14e685-aa1f-4814-bbeb-1a1a8bebca9b" />
+
 <img width="2554" height="1423" alt="image" src="https://github.com/user-attachments/assets/c79295ca-2645-438d-88fa-5a28a66e4df9" />
 
 
