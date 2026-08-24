@@ -1,4 +1,15 @@
-##Hotel Review Rating Prediction using Naive Bayes
+# Hotel Review Rating Prediction using Naive Bayes
+
+## Run the frontend
+
+Install the dependencies and launch the Streamlit interface:
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+The app loads `tripadvisor_hotel_reviews.csv` from the project folder, trains the model on startup, and provides review predictions plus dataset insights.
 
 dataset used - https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews
 
