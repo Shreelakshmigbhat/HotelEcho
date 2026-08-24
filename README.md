@@ -8,6 +8,8 @@ Install the dependencies and launch the Streamlit interface:
 pip install -r requirements.txt
 streamlit run app.py
 ```
+<img width="2554" height="1423" alt="image" src="https://github.com/user-attachments/assets/c79295ca-2645-438d-88fa-5a28a66e4df9" />
+
 
 The app loads `tripadvisor_hotel_reviews.csv` from the project folder, trains the model on startup, and provides review predictions plus dataset insights.
 
