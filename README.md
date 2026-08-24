@@ -1,4 +1,4 @@
-# Hotel Review Rating Prediction using Naive Bayes
+# Hotel Review Rating Prediction using Naive Bayes [ project done in 1st year] 
 
 ## Run the frontend
 
